@@ -1,4 +1,4 @@
-# Portfolio-Website 
+# Portfolio Website 
 
 # Website Link
-https://kashishmittal.netlify.app/#home
+https://kashishmittal.netlify.app/
